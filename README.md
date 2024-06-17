@@ -1,0 +1,1 @@
+It loads training and test datasets, imputes missing values with most frequent data, and encodes categorical features to convert strings into numbers. Logistic Regression, Gaussian Naive Bayes, and SVM models are trained and evaluated using ROC AUC scores. Finally, it generates predictions for the test set and saves them to a CSV file for submission.
